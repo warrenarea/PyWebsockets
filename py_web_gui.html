@@ -1,0 +1,35 @@
+<!-- 
+    pyServer  2023.Oct.12
+    _____________________
+    py_web_gui.html
+     
+    Written by Warren
+    
+    HTML Access for io_SocketServer.py
+-->
+
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <title>Local WebSocket Server</title>
+        <script src="io_SocketClient.js" charset="utf-8"></script>        
+    </head>
+    
+    <body>
+        <div id="connectButtons">
+            <input id="pyConnect" type="button" value="Connect" />
+            <input id="pyDisconnect" class="w3-bar-item w3-black w3-hover-red" type="button" value="Disconnect" />
+        </div><br>
+        Data to Send  <input id="pyOutput" type="text" value="X Y Z" /> 
+        <input id="pySend" type="button" value="Send Data" />
+        <br><br>
+        Data Received <div id="pyInput" style="width:500px; height:100px;"></div> <br><br>
+        
+        
+        <br><br><br><br><br>
+        <div id="pyStatus"></div>
+        
+        <script src="js_interface.js"      charset="utf-8"></script>
+
+    </body>
+</html>
