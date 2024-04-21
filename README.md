@@ -6,7 +6,7 @@ minimal code to do a basic websocket connection to a browser.
 `Python Version: 3.11.x`     <br>
 `Supported: Chrome, Firefox` <br>
 
-<img src="https://github.com/warrenarea/PyWebsockets/blob/main/PyLocalServer.png"></img>
+<img src="https://github.com/warrenarea/PyWebsockets/blob/main/PyWebsockets.png"></img>
 
 __Usage:__
 1. Navigate to project folder.
