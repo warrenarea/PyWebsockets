@@ -1,11 +1,11 @@
 /*
-    pyServer  2023.Oct.12
-    _____________________
+    PyWebsockets  04.21.2024
+    _________________________
     io_SocketClient.js  
    
     Written by Warren
   
-    WebSocket client for dispatching event-driven data to io_SocketServer.py
+    WebSocket client for dispatching event-driven data for pythons Connect.py
 
 */
 try {
