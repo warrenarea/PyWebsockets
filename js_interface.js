@@ -1,11 +1,11 @@
 /*
-    pyServer  2023.Oct.12
-    _____________________
+    PyWebsockets  04.21.2024
+    _________________________
     js_interface.js       
    
     Written by Warren
   
-    CyKIT HTML back-end for controlling interface and handling data.
+    Back-end for controlling interface and handling data.
  */
 
 //  Send Data  (by send button)
