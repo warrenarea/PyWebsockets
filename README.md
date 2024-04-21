@@ -10,6 +10,6 @@ minimal code to do a basic websocket connection to a browser.
 
 __Usage:__
 1. Navigate to project folder.
-2. Start py server: `python.exe .\pyServer.py`
-3. Run `py_web_gui.html` in browser [Firefox, or Chrome]
+2. Start py server: `python.exe .\Connect.py`
+3. Run `web_GUI.html` in browser [Firefox, or Chrome]
 4. Click `Connect` button and `Send Data` buttons.
